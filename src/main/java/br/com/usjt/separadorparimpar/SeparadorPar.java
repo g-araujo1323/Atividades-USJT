@@ -1,5 +1,5 @@
 
-package SeparadorParImpar;
+package br.com.usjt.separadorparimpar;
 
 public class SeparadorPar {
     

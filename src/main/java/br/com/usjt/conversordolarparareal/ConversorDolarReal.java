@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.tarefas;
+package br.com.usjt.conversordolarparareal;
 
 import javax.swing.JOptionPane;
 
@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @author user
  */
-public class Tarefas {
+public class ConversorDolarReal {
 
     public static void main(String[] args) {
         
